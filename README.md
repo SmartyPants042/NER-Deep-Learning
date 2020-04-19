@@ -16,9 +16,9 @@ Number of Rows(Words): 5M+
 Number of Tweets: 530k  
 
 #### NE Tags
-- OUT
-- BEG-PLAY
-- BEG-TEAM
-- INS-PLAY
-- INS-TEAM  
+- O
+- B-Play
+- B-Team
+- I-Play
+- I-Team  
 Simply put, uses IOB format.
