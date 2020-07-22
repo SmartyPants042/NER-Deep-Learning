@@ -1,4 +1,4 @@
-# NER-Deep-Learning
+# Named Entity Recognition-Deep-Learning
 Identifies named entities in tweets using a Deep Learning Model.
 
 ## Dataset
